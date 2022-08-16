@@ -7,6 +7,7 @@
         - Dibujando un cuadrado en C++ con asteriscos.
 */
 
+//Librerías
 #include <iostream.h>
 #include <conio.h>
 
