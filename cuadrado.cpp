@@ -4,7 +4,7 @@
     2P
     Programación Orientada en Objetos
     Descripción de programa:
-        - Dibujado de un cuadrado en C++.
+        - Dibujando un cuadrado en C++ con asteriscos.
 */
 
 class Cuadrado
