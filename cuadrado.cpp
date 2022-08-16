@@ -7,6 +7,9 @@
         - Dibujando un cuadrado en C++ con asteriscos.
 */
 
+#include <iostream.h>
+#include <conio.h>
+
 class Cuadrado
 {
     //Atributos
