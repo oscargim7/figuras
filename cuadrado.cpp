@@ -31,7 +31,7 @@ int main()
     
     for(int i = 0; i<micuadrado.fila; i++)
     {
-        for(int j = 0; j<micuadrado.fila; j++)
+        for(int j = 0; j<micuadrado.columna; j++)
         {
             cout<<"*";
             micuadrado.draw();
