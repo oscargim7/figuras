@@ -20,6 +20,7 @@ class Cuadrado
     //Métodos
      public: 
         draw();
+        limpiar();
 }
 
 int main()
